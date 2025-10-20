@@ -1,5 +1,11 @@
 # 💫 About Me:
-A First-Year B.Tech Student passionate about front-end development (HTML/CSS) and exploring the future of Artificial Intelligence<br><br>
+I am a first-year B.Tech student exploring the world of code. I'm passionate about Web Development and Artificial Intelligence. I love turning complex problems into simple, beautiful, and intuitive designs.<br><br>
+# 🚀 What I'm Up To
+
+- 🌱 **Learning:** Currently diving deep into **C** and **Python** while building my foundational knowledge in Artificial Intelligence.
+- 💻 **Building:** Working on personal projects to sharpen my skills.
+- 👯 **Collaborating:** Open to collaborating on web development projects.
+- ⚡ **Fun Fact:** I love listening to music while coding and i love watching chess and anime !
 
 
 ## 🌐 Socials:
@@ -15,5 +21,3 @@ A First-Year B.Tech Student passionate about front-end development (HTML/CSS) an
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adityagotlost&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
