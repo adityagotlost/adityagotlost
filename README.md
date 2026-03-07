@@ -2,7 +2,7 @@
 I am a first-year B.Tech student exploring the world of code. I'm passionate about Web Development and Artificial Intelligence. I love turning complex problems into simple, beautiful, and intuitive designs.<br><br>
 # 🚀 What I'm Up To
 
-- 🌱 **Learning:** Currently diving deep into **C** and **Python** while building my foundational knowledge in Artificial Intelligence.
+- 🌱 **Learning:** Currently diving deep into **DS**  while building my foundational knowledge in Artificial Intelligence.
 - 💻 **Building:** Working on personal projects to sharpen my skills.
 - 👯 **Collaborating:** Open to collaborating on web development projects.
 - ⚡ **Fun Fact:** I love listening to music while coding and i love watching chess and anime !
