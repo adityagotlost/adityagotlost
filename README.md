@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year B.Tech student exploring the world of code. I'm passionate about Web Development and Artificial Intelligence. I love turning complex problems into simple, beautiful, and intuitive designs.<br><br>
+I am a second-year B.Tech student exploring the world of code. I'm passionate about Internet and Artificial Intelligence. I love turning complex problems into simple, beautiful, and intuitive designs.<br><br>
 # 🚀 What I'm Up To
 
 - 🌱 **Learning:** Currently diving deep into **DS**  while building my foundational knowledge in Artificial Intelligence.
